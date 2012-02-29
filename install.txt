@@ -1,4 +1,4 @@
-Local modif
+ÔªøLocal modif
 Another modif
 Test modif
 
@@ -7,8 +7,8 @@ SECOND UPDATE FROM STUDIO FOR SMART HTTP
 THIRD TIME IS A CHARM
 Fourth time the same
 
-Et si c'est moi qui fait des modifs, ça mårche?
-
+Et si c'est moi qui fait des modifs, √ßa m√•rche?
+ 
 My new modification
 
 Installation
