@@ -3,6 +3,7 @@ Another modif
 Test modif
 
 MODIFY ON MAC TO TEST SMART HTTP PUSH
+SECOND MODIFY FROM STUDIO FOR SMART HTTP
 
 Installation
 ========================
