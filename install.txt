@@ -2,6 +2,8 @@ Local modif
 Another modif
 Test modif
 
+MODIFY ON MAC TO TEST SMART HTTP PUSH
+
 Installation
 ========================
 
